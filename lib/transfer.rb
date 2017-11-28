@@ -28,5 +28,6 @@ class Transfer
       @sender += @amount
       @receiver -= @amount
     end
+  end
 
 end
